@@ -79,13 +79,14 @@ body {
 
 /* Hero Section */
 .hero {
-    height: 100vh;
+    /* height: 100vh; */
     min-height: 600px;
-    background: url('assets/hero_bg_light.png') no-repeat center center/cover;
+    background: url('assets/hero2.jpeg') no-repeat center center/cover;
+    margin-top: 96px;
 }
 
 .hero-overlay {
-    background: linear-gradient(90deg, rgba(255, 255, 255, 0.95) 10%, rgba(255, 255, 255, 0.7) 60%, rgba(255, 255, 255, 0.2) 100%);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.95) 10%, rgba(255, 255, 255, 0.7) 40%, rgba(255, 255, 255, 0.2) 100%);
 }
 
 .hero-title {
