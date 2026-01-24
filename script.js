@@ -22,6 +22,17 @@ const batches = [
         link: "https://square.link/u/ZZfqKrVa"
     },
     {
+        title: "Creative Performance 14yrs+",
+        image: "assets/creative.jpg",
+        level: "Performance",
+        levelClass: "bg-success-subtle text-success",
+        description: "Creative Performance Group - The Ponds offers immersive storytelling experiences through dynamic and engaging performances tailored for individual bookings. Reserve your spot to explore this unique blend of creativity and narrative artistry.",
+        time: "6:30 PM",
+        location: "The Ponds",
+        price: "$90.00",
+        link: "https://square.link/u/PFYe2yGR"
+    },
+    {
         title: "NSDS BollyFit Dance workout",
         image: "assets/bollyfit.jpeg",
         level: "BollyFit",
