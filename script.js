@@ -1,36 +1,47 @@
 const batches = [
     {
-        title: "NSDS BollyFit Dance workout",
-        image: "assets/thumb_contemporary.png",
-        level: "Beginner",
-        levelClass: "bg-orange-subtle text-orange",
-        description: "Experience the energy and excitement of NSDS BollyFit Dance workouts!",
-        time: "Mon, Wed | 6:00 PM",
-        location: "Studio A",
-        price: "A$25.00 - A$100.00",
-        link: "#book-contemporary"
-    },
-    {
-        title: "Urban Hip-Hop",
-        image: "assets/thumb_hiphop.png",
-        level: "Intermediate",
+        title: "11 to 13 years - Girls & Boys",
+        image: "assets/reg_batch.JPG",
+        level: "Regular Batch - 7:30 PM",
         levelClass: "bg-purple-subtle text-purple",
-        description: "Master the groove, isolation, and footwork. High-energy sessions focusing on musicality and style.",
-        time: "Tue, Thu | 7:30 PM",
-        location: "Studio B",
-        price: "$140",
-        link: "#book-hiphop"
+        description: "Regular One hour learning sessions Designed for young Kids, Classical Dance fundamentals - Folk & Bollywood mix Styles.",
+        time: "7:30 PM",
+        location: "Wentworthville (Wed), Quakers Hill (Thu)",
+        price: "$80.00 - $100.00",
+        link: "https://square.link/u/vJ1DZ8Sz"
     },
     {
-        title: "Classical Fusion",
-        image: "assets/thumb_classical.png",
-        level: "Advanced",
+        title: "11 to 13 years- Girls & Boys",
+        image: "assets/reg_batch.JPG",
+        level: "Regular Batch - 6:30 PM",
+        levelClass: "bg-purple-subtle text-purple",
+        description: "Regular One hour learning sessions Designed for young Kids, Classical Dance fundamentals - Folk & Bollywood mix Styles.",
+        time: "6:30 PM",
+        location: "Wentworthville (Wed), Quakers Hill (Thu)",
+        price: "$80.00 - $100.00",
+        link: "https://square.link/u/ZZfqKrVa"
+    },
+    {
+        title: "NSDS BollyFit Dance workout",
+        image: "assets/bollyfit.jpeg",
+        level: "BollyFit",
+        levelClass: "bg-orange-subtle text-orange",
+        description: "Experience the energy and excitement of NSDS BollyFit Dance workouts! These dynamic routines combine fun and fitness, offering a calorie-burning workout you'll look forward to each week.",
+        time: "7:45pm to 9:00pm",
+        location: "Wentworthville, QuakersHill, The Ponds",
+        price: "A$25.00 - A$100.00",
+        link: "https://square.link/u/SCiS61Ms"
+    },
+    {
+        title: "Dance Workshop",
+        image: "assets/hero2.jpeg",
+        level: "Workshop",
         levelClass: "bg-red-subtle text-red",
         description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
-        time: "Sat, Sun | 10:00 AM",
-        location: "Studio Main",
-        price: "$160",
-        link: "#book-classical"
+        time: "09th feb & 23rd feb (7:30PM - 8:30PM)",
+        location: "Seven Hills, Entertainment Works",
+        price: "$50",
+        link: "https://square.link/u/TmGh39Um"
     }
 ];
 
@@ -60,7 +71,7 @@ const renderBatches = () => {
                             </div>
                             <div class="d-flex justify-content-between align-items-center mt-3">
                                 <span class="h5 fw-bold mb-0">${batch.price}<span class="fs-6 text-muted fw-normal">/mo</span></span>
-                                <a href="${batch.link}" class="btn btn-outline-primary rounded-pill px-4">Book Now</a>
+                                <a href="${batch.link}" target="_blank" class="btn btn-outline-primary rounded-pill px-4">Book Now</a>
                             </div>
                         </div>
                     </div>
