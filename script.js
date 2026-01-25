@@ -1,17 +1,17 @@
 const batches = [
     {
-        title: "11 to 13 years - Girls & Boys",
-        image: "assets/reg_batch.JPG",
-        level: "Regular Batch - 7:30 PM",
-        levelClass: "bg-purple-subtle text-purple",
-        description: "Regular One hour learning sessions Designed for young Kids, Classical Dance fundamentals - Folk & Bollywood mix Styles.",
-        time: "7:30 PM",
-        location: "Wentworthville (Wed), Quakers Hill (Thu)",
-        price: "$80.00 - $100.00",
-        link: "https://square.link/u/vJ1DZ8Sz"
+        title: "Dance workshop: Shararat",
+        image: "assets/shararat.jpg",
+        level: "Workshop",
+        levelClass: "bg-red-subtle text-red",
+        description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
+        time: "09th feb & 23rd feb (7:30PM - 8:30PM)",
+        location: "Seven Hills, Entertainment Works",
+        price: "$50",
+        link: "https://square.link/u/TmGh39Um"
     },
     {
-        title: "11 to 13 years- Girls & Boys",
+        title: "07 to 10 years- Girls & Boys",
         image: "assets/reg_batch.JPG",
         level: "Regular Batch - 6:30 PM",
         levelClass: "bg-purple-subtle text-purple",
@@ -20,6 +20,17 @@ const batches = [
         location: "Wentworthville (Wed), Quakers Hill (Thu)",
         price: "$80.00 - $100.00",
         link: "https://square.link/u/ZZfqKrVa"
+    },
+    {
+        title: "11 to 13 years - Girls & Boys",
+        image: "assets/7_reg_batch.jpg",
+        level: "Regular Batch - 7:30 PM",
+        levelClass: "bg-purple-subtle text-purple",
+        description: "Regular One hour learning sessions Designed for young Kids, Classical Dance fundamentals - Folk & Bollywood mix Styles.",
+        time: "7:30 PM",
+        location: "Wentworthville (Wed), Quakers Hill (Thu)",
+        price: "$80.00 - $100.00",
+        link: "https://square.link/u/vJ1DZ8Sz"
     },
     {
         title: "Creative Performance 14yrs+",
@@ -32,28 +43,17 @@ const batches = [
         price: "$90.00",
         link: "https://square.link/u/PFYe2yGR"
     },
-    {
-        title: "NSDS BollyFit Dance workout",
-        image: "assets/bollyfit.jpeg",
-        level: "BollyFit",
-        levelClass: "bg-orange-subtle text-orange",
-        description: "Experience the energy and excitement of NSDS BollyFit Dance workouts! These dynamic routines combine fun and fitness, offering a calorie-burning workout you'll look forward to each week.",
-        time: "7:45pm to 9:00pm",
-        location: "Wentworthville, QuakersHill, The Ponds",
-        price: "A$25.00 - A$100.00",
-        link: "https://square.link/u/SCiS61Ms"
-    },
-    {
-        title: "Dance Workshop",
-        image: "assets/hero2.jpeg",
-        level: "Workshop",
-        levelClass: "bg-red-subtle text-red",
-        description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
-        time: "09th feb & 23rd feb (7:30PM - 8:30PM)",
-        location: "Seven Hills, Entertainment Works",
-        price: "$50",
-        link: "https://square.link/u/TmGh39Um"
-    }
+    // {
+    //     title: "NSDS BollyFit Dance workout",
+    //     image: "assets/bollyfit.jpeg",
+    //     level: "BollyFit",
+    //     levelClass: "bg-orange-subtle text-orange",
+    //     description: "Experience the energy and excitement of NSDS BollyFit Dance workouts! These dynamic routines combine fun and fitness, offering a calorie-burning workout you'll look forward to each week.",
+    //     time: "7:45pm to 9:00pm",
+    //     location: "Wentworthville, QuakersHill, The Ponds",
+    //     price: "A$25.00 - A$100.00",
+    //     link: "https://square.link/u/SCiS61Ms"
+    // },
 ];
 
 const batchesContainer = document.getElementById('batches-container');
