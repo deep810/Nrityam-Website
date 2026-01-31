@@ -38,7 +38,7 @@ const batches = [
         level: "Performance",
         levelClass: "bg-success-subtle text-success",
         description: "Creative Performance Group - The Ponds offers immersive storytelling experiences through dynamic and engaging performances tailored for individual bookings. Reserve your spot to explore this unique blend of creativity and narrative artistry.",
-        time: "6:30 PM",
+        time: "1:30 PM",
         location: "The Ponds",
         price: "$90.00",
         link: "https://square.link/u/PFYe2yGR"

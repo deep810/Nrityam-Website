@@ -154,3 +154,33 @@ body {
         box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     }
 }
+
+/* About Page Specifics */
+.about-hero {
+    background: url('assets/about_us.jpg') no-repeat center center/cover;
+    /* Reusing same hero for consistency or change if needed */
+    /* Add a darker overlay if text readability is an issue, but hero-overlay handles it */
+}
+
+.about-hero-overlay {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.7) 10%, rgba(255, 255, 255, 0.7) 40%, rgba(255, 255, 255, 0.7) 100%);
+}
+
+/* Hover Cards */
+.hover-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.hover-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 1rem 3rem rgba(0, 0, 0, 0.08) !important;
+}
+
+/* Material Symbols Helper */
+.material-symbols-outlined {
+    font-variation-settings:
+        'FILL' 0,
+        'wght' 400,
+        'GRAD' 0,
+        'opsz' 24
+}
