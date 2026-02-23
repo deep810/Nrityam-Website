@@ -45,7 +45,7 @@ const batches = [
     },
     {
         title: "Casual Pass - NSDS",
-        image: "assets/creative.jpg",
+        image: "assets/casual_pass.jpg",
         level: "",
         levelClass: "bg-success-subtle text-success",
         description: "Perfect for dancers who like to attend a single session or trail class without a long-term commitment. This pass allows access to one casual class at Nrityam Sydney Dance Studio. Once payment is processed, our team will contact you with a confirmation within 24–48 hours.",
