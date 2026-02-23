@@ -1,11 +1,11 @@
 const batches = [
     {
-        title: "Dance workshop: Shararat",
-        image: "assets/shararat.jpg",
+        title: "Dance workshop: Bumbro Bumbro",
+        image: "assets/workshop.jpg",
         level: "Workshop",
         levelClass: "bg-red-subtle text-red",
         description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
-        time: "09th feb & 23rd feb (7:30PM - 8:30PM)",
+        time: "09th MAR & 23rd MAR - MON (7:30PM - 8:30PM)",
         location: "Seven Hills, Entertainment Works",
         price: "$50",
         link: "https://square.link/u/TmGh39Um"
