@@ -1,7 +1,7 @@
 const batches = [
     {
-        title: "Dance workshop: Bumbro Bumbro",
-        image: "assets/workshop.jpg",
+        title: "Dance workshop",
+        image: "assets/workshop.jpeg",
         level: "Workshop",
         levelClass: "bg-red-subtle text-red",
         description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
