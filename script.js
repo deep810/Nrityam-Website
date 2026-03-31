@@ -4,8 +4,9 @@ const batches = [
         image: "assets/workshop.jpeg",
         level: "Workshop",
         levelClass: "bg-red-subtle text-red",
-        description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
-        time: "13th APR - Aari Aari | 20th APR - Ghehra hua | 27th APR - Naal Nachna (7:30PM - 8:30PM)",
+        // description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
+        description: "13th APR - Aari Aari | 20th APR - Ghehra hua | 27th APR - Naal Nachna",
+        time: " 7:30PM - 8:30PM",
         location: "Seven Hills, Entertainment Works",
         price: "$50",
         link: "https://square.link/u/TmGh39Um"
