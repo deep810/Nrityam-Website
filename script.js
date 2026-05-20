@@ -11,18 +11,18 @@ const batches = [
         price: "$40",
         link: "https://square.link/u/FcpQ145u"
     },
-    {
-        title: "Dance workshop",
-        image: "assets/workshop.jpeg",
-        level: "Workshop",
-        levelClass: "bg-red-subtle text-red",
-        // description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
-        description: "13th APR - Aari Aari | 20th APR - Ghehra hua | 27th APR - Naal Nachna",
-        time: " 7:30PM - 8:30PM",
-        location: "Seven Hills, Entertainment Works",
-        price: "$50",
-        link: "https://square.link/u/TmGh39Um"
-    },
+    // {
+    //     title: "Dance workshop",
+    //     image: "assets/workshop.jpeg",
+    //     level: "Workshop",
+    //     levelClass: "bg-red-subtle text-red",
+    //     // description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
+    //     description: "13th APR - Aari Aari | 20th APR - Ghehra hua | 27th APR - Naal Nachna",
+    //     time: " 7:30PM - 8:30PM",
+    //     location: "Seven Hills, Entertainment Works",
+    //     price: "$50",
+    //     link: "https://square.link/u/TmGh39Um"
+    // },
     {
         title: "07 to 10 years- Girls & Boys",
         image: "assets/reg_batch.JPG",
