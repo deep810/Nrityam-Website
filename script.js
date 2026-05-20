@@ -1,5 +1,17 @@
 const batches = [
     {
+        title: "Fitness Dance - Bollywood | Garba | Bhangra",
+        image: "assets/bolly_garba.jpg",
+        level: "Fitness Dance",
+        levelClass: "bg-red-subtle text-red",
+        // description: "Blend traditional forms with modern beats. A rigorous class for experienced dancers seeking new challenges.",
+        description: "A high-energy fitness dance session that blends vibrant Indian dance moves with cardio and toning exercises. Set to upbeat Garba, Bhangra & Bollywood music, this fun workout boosts stamina, improves coordination, and leaves you feeling energized while enjoying the rhythm and spirit of Bollywood.",
+        time: " 8:00PM - 9:00PM",
+        location: "Wentworthville, QuakersHill",
+        price: "$40",
+        link: "https://square.link/u/FcpQ145u"
+    },
+    {
         title: "Dance workshop",
         image: "assets/workshop.jpeg",
         level: "Workshop",
