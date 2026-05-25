@@ -8,7 +8,7 @@ const batches = [
         description: "A high-energy fitness dance session that blends vibrant Indian dance moves with cardio and toning exercises. Set to upbeat Garba, Bhangra & Bollywood music, this fun workout boosts stamina, improves coordination, and leaves you feeling energized while enjoying the rhythm and spirit of Bollywood.",
         time: " 8:00PM - 9:00PM",
         location: "Wentworthville, QuakersHill",
-        price: "$40",
+        price: "$70.00",
         link: "https://square.link/u/FcpQ145u"
     },
     // {
@@ -23,6 +23,17 @@ const batches = [
     //     price: "$50",
     //     link: "https://square.link/u/TmGh39Um"
     // },
+    {
+        title: "5 to 7yrs- Girls & Boys",
+        image: "assets/5-7yrs.jpeg",
+        level: "Regular Batch - 5:30 PM",
+        levelClass: "bg-purple-subtle text-purple",
+        description: "Regular One hour learning sessions Designed for young Kids, Classical Dance fundamentals - Folk & Bollywood mix Styles.",
+        time: "5:30 PM",
+        location: "Wentworthville (Wed), Quakers Hill (Thu)",
+        price: "$80.00",
+        link: "https://square.link/u/PGttcggX"
+    },
     {
         title: "07 to 10 years- Girls & Boys",
         image: "assets/reg_batch.JPG",
@@ -44,6 +55,17 @@ const batches = [
         location: "Wentworthville (Wed), Quakers Hill (Thu)",
         price: "$80.00 - $100.00",
         link: "https://square.link/u/vJ1DZ8Sz"
+    },
+    {
+        title: "Garba Dandia - 7 Weeks",
+        image: "assets/garba.jpeg",
+        level: "Performance",
+        levelClass: "bg-success-subtle text-success",
+        description: "This is a structured program divided into 2 parts: Rhythms & Spins,Steps, Grace, techniques & combinations choreography.",
+        time: "4:00pm to 5:30pm",
+        location: "The Ponds",
+        price: "$25.00 - $150.00",
+        link: "https://square.link/u/PFYe2yGR"
     },
     {
         title: "Creative Performance 14yrs+",
