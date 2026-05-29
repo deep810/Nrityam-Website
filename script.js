@@ -65,7 +65,7 @@ const batches = [
         time: "4:00pm to 5:30pm",
         location: "The Ponds",
         price: "$25.00 - $150.00",
-        link: "https://square.link/u/PFYe2yGR"
+        link: "https://square.link/u/ydtIre7Z"
     },
     {
         title: "Creative Performance 14yrs+",
