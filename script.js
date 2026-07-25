@@ -57,8 +57,8 @@ const batches = [
         link: "https://square.link/u/vJ1DZ8Sz"
     },
     {
-        title: "Garba Dandia - 7 Weeks",
-        image: "assets/garba.jpeg",
+        title: "Garba Dandia - 1st August 2026",
+        image: "assets/garba1.jpeg",
         level: "Performance",
         levelClass: "bg-success-subtle text-success",
         description: "This is a structured program divided into 2 parts: Rhythms & Spins,Steps, Grace, techniques & combinations choreography.",
